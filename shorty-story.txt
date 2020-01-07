@@ -2,3 +2,6 @@ This is a story about practicing git. Next, I will delete something.
 I didn't realize git was not the same as github. Lets see how changing this in git goes. Now, I am going to add this line and see what happens.
 
 Lets add another line to make sure I am getting the hang of this.
+Now lets add and practice pushing to github.
+
+Woohoo!
